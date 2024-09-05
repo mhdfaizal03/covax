@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1066947496564",
+    "firebase_url": "https://covax-7d6f2-default-rtdb.firebaseio.com",
+    "project_id": "covax-7d6f2",
+    "storage_bucket": "covax-7d6f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066947496564:android:b4b69cdad7eaff3c1c5f21",
+        "android_client_info": {
+          "package_name": "com.example.covax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgdXXHzHHxOZNa1Jy0L7UzXdK5O7KKbAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066947496564:android:210769935cfe6e4b1c5f21",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgdXXHzHHxOZNa1Jy0L7UzXdK5O7KKbAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
